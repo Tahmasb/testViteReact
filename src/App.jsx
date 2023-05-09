@@ -1,5 +1,5 @@
-import AxiosTest from "./components/axiosTest/AxiosTest";
+import LiveLocatioin from "./components/liveLocatioin/LiveLocatioin";
 
 export default function App() {
-  return <AxiosTest />;
+  return <LiveLocatioin />;
 }
