@@ -1,5 +1,5 @@
-import LiveLocatioin from "./components/liveLocatioin/LiveLocatioin";
+import Selector from "./components/selector/Selector";
 
 export default function App() {
-  return <LiveLocatioin />;
+  return <Selector />;
 }
