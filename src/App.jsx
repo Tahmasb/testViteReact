@@ -1,5 +1,5 @@
-import Selector from "./components/selector/Selector";
-
+import DigiMenu from "./components/digiMenu/DigiMenu";
+import EditorInput from "./components/editorInput/EditorInput";
 export default function App() {
-  return <Selector />;
+  return <EditorInput />;
 }
